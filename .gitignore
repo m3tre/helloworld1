@@ -1,0 +1,9 @@
+/.idea/
+/nbproject/
+/.gradle/
+/.git/
+
+# System Files
+.DS_Store
+Thumbs.db
+/node/
